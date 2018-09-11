@@ -108,7 +108,9 @@ The next thing to do is creating your own login and password. Follow the followi
 10.	 It is optional, but we can also select an implicit database in the “Default Database” field.
 11.	Then we have to press OK.
 In addition to the server-level permissions management system, there is a system for defining access to the database level. A login can be declared with a database or multiple databases as a database user. A specific Database Role is assigned to each user.
+
 This can also be easily done:
+
 1.	Click on the right button near “login”.
 2.	Select the “Properties” option.
 3.	Select the “User Mapping” page. Select the needed buttons.
