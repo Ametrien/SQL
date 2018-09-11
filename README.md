@@ -1,23 +1,6 @@
 # SQL (BDC labs) 
 
-## Laboratory work nr. 1
-Theory
-
-Microsoft SQL Server is a relational database management system. In this laboratory work we are going to use Microsoft SQL Server 2014. The logical components of a SQL Server System are:
-•	Databases
-•	Tables
-•	Database Diagrams
-•	Indexes
-•	Views
-•	Schemes
-•	Synonyms
-•	Stored Procedures
-•	Triggers
-•	Functions
-•	Data Types
-•	Rules
-•	Sequences
-
-#1 System installation
-1.	First of all, we have to download an .exe file, which will allow us to install the program. By clicking on it twice, we will open a new window. 
-2.	Here we will have to click on the “Installation” in order to start the process of installation.
+## [Lab 1](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_LAB%231)
+## [Lab 2](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_LAB%232)
+## [Lab 3](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_LAB%233)
+## [Lab 4](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_LAB%234)
