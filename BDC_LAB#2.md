@@ -2,13 +2,13 @@
 
 #### Theory
 
-#### №1 - 
+#### №1
 
 ![Image 15](https://github.com/AnastasiaFAF172/SQL/raw/images/15.png)
 
 ![Image 16](https://github.com/AnastasiaFAF172/SQL/raw/images/16.png)
 
-#### №2 - 
+#### №2 
 
 
 ![Image 17](https://github.com/AnastasiaFAF172/SQL/raw/images/17.png)
