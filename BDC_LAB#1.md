@@ -20,3 +20,4 @@ Microsoft SQL Server is a relational database management system. In this laborat
 #### №1 - System installation
 1.	First of all, we have to download an .exe file, which will allow us to install the program. By clicking on it twice, we will open a new window. 
 2.	Here we will have to click on the “Installation” in order to start the process of installation.
+![Image alt](https://github.com/AnastasiaFAF172/SQL/raw/images/1.png)
