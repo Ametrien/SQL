@@ -120,10 +120,10 @@ The following screenshots show the process of creation of different users. The f
 
 The second user can only read data in the “Sales” scheme. At the same time, the user is able to manage any object and content of this object in the AdventureWorksDW2014 database. The third user is able to create new databases and define access to them.
 
-![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
-![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
-![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
-![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
+![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/11.png)
+![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/12.png)
+![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/13.png)
+![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/14.png)
 
 #### Conclusions:
 
