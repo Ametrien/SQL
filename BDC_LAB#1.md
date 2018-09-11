@@ -39,7 +39,7 @@ Microsoft SQL Server is a relational database management system. In this laborat
 14.	Then in “Database Engine Configuration” we select the type of authentication. 
 15.	In the window, which is called “Analysis Server Configuration”, in our case everything has to remain implicit. 
 16.	In “Reporting Service Configuration” we have to choose option “Reporting service”.
-17	Then we specify at least one administrator in “Distributed Relay Controller”.
+17.	Then we specify at least one administrator in “Distributed Relay Controller”.
 18.	In “Distributed Relay Client” we shouldn’t change anything, so we go to the next step.
 19.	The “Ready to install” window tells us that the system is ready to be installed.
 20.	In the “Installation Progress” we can watch the installation process and the current state of installation.
