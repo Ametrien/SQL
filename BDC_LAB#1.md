@@ -17,6 +17,6 @@ Microsoft SQL Server is a relational database management system. In this laborat
 * Rules
 * Sequences
 
-#### №1. System installation
+#### №1 - System installation
 1.	First of all, we have to download an .exe file, which will allow us to install the program. By clicking on it twice, we will open a new window. 
 2.	Here we will have to click on the “Installation” in order to start the process of installation.
