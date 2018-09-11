@@ -1,10 +1,7 @@
-
-## WORK IN PROGRESS!
-
-### Laboratory work №1 – SQL Server Installation
+### Laboratory work №2 – Database Creation and Maintenance Tools
 
 #### Theory
 
-#### №1 - System 
+#### №1 - 
 
 #### №2 - 
