@@ -124,3 +124,10 @@ The second user can only read data in the “Sales” scheme. At the same time, 
 ![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
 ![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
 ![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/10.png)
+
+#### Conclusions:
+
+1.	I learned how to install the SQL Server software.
+2.	I accomplished server registration and server configuration.
+3.	I got acquainted with the basic functions of the SQL Server 2014, such as creation of users.
+
