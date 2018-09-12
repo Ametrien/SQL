@@ -1,8 +1,6 @@
 
 ### Laboratory work №3 – Database Creation and Manipulation. DML
 
-#### Theory
-
 #### №1 
 This numbers can be introduced in a field of DECIMAL(4,1) type:
 **a)** 16,2;
