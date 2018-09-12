@@ -11,8 +11,8 @@ This numbers can be introduced in a field of DECIMAL(4,1) type:
 #### №2 
 | Col1       | Col2          | Col3  |
 | ------------- |:-------------:| -----:|
-| 1     | 1.0 |  |
-| 2      | 1.0      |    |
+| 1     | 1.0 | *1.0* |
+| 2      | 1.0      | *2.0*   |
 
 The file [Col1] of this table is of the *INT* type, and [Col2] is of the *DECIMAL* type.
 Then, [Col3] has to be of **DECIMAL(2,1)** type in order to contain the result of the following expression: Col1 * Col2.
