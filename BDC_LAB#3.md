@@ -4,9 +4,18 @@
 #### Theory
 
 #### №1 
-a,b,d
+This numbers can be introduced in a field of DECIMAL(4,1) type:
+**a)** 16,2;
+**b)** 116,2;
+**d)** 1116,2.
 #### №2 
-DECIMAL(2,1)
+| Col1       | Col2          | Col3  |
+| ------------- |:-------------:| -----:|
+| 1     | 1.0 |  |
+| 2      | 1.0      |    |
+
+The file [Col1] of this table is of the *INT* type, and [Col2] is of the *DECIMAL* type.
+Then, [Col3] has to be of **DECIMAL(2,1)** type in order to contain the result of the following expression: Col1 * Col2.
 #### №3 
 ![Image 1](https://github.com/AnastasiaFAF172/SQL/raw/images/3_1.png)
 ![Image 2](https://github.com/AnastasiaFAF172/SQL/raw/images/3_2.png)
