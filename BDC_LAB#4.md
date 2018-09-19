@@ -1,4 +1,5 @@
 
+
 CREATE DATABASE universitatea
 GO
 
@@ -100,7 +101,7 @@ CREATE TABLE studenti_reusinta
 GO
 
 
-
+![Image 1](https://github.com/AnastasiaFAF172/SQL/raw/images/0001.png)
 
 1)
  SELECT     dbo.grupe.*
