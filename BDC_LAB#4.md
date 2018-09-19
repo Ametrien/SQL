@@ -102,7 +102,7 @@ GO
 
 ```
 
-![Image 1](https://github.com/AnastasiaFAF172/SQL/raw/images/0001.png)
+![Image 1](https://github.com/AnastasiaFAF172/SQL/raw/images/001.png)
 
 1)
 ```
