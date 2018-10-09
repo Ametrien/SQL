@@ -9,6 +9,6 @@
 ### [Lab 4](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_LAB%234.md) ✅
 ####
 
-## SQL (BDC labs) version 1
+## SQL (BDC labs) version 2
 ### [Lab 2](https://github.com/AnastasiaFAF172/SQL/blob/master/BDC_) ✅ 
 #### Database Creation and Maintenance Tools
