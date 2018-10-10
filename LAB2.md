@@ -26,7 +26,7 @@
 
 #### №4
 
-![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/4_1.jpg)
+![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/4_1.JPG)
 ![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/4_2.jpg)
 ![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/4_3.jpg)
 ![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/4_4.jpg)
