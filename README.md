@@ -12,5 +12,7 @@
 ## SQL (BDC labs) version 2
 ### [Lab 2](https://github.com/AnastasiaFAF172/SQL/blob/master/LAB2.md) ✅ 
 #### Database Creation and Maintenance Tools
-### [Lab 3](https://github.com/AnastasiaFAF172/SQL/blob/master/LAB3.md)
+### [Lab 3](https://github.com/AnastasiaFAF172/SQL/blob/master/LAB3.md) ✅ 
 #### Database Creation and Manipulation. DML
+### [Lab 4](https://github.com/AnastasiaFAF172/SQL/blob/master/LAB4.md) ✅
+####
