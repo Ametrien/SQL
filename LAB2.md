@@ -22,12 +22,12 @@
 ![Image 8](https://github.com/AnastasiaFAF172/SQL/raw/images/3_5.jpg)
 ![Image 9](https://github.com/AnastasiaFAF172/SQL/raw/images/3_6.jpg)
 ![Image 10](https://github.com/AnastasiaFAF172/SQL/raw/images/3_7_schedule.JPG)
-![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/3_8.jpg)
+![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/3_8.jpg)
 
 #### №4
 
-![Image 11](https://github.com/AnastasiaFAF172/SQL/raw/images/4_1.JPG)
-![Image 12](https://github.com/AnastasiaFAF172/SQL/raw/images/4_2.jpg)
-![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/4_3.jpg)
-![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/4_4.jpg)
-![Image 15](https://github.com/AnastasiaFAF172/SQL/raw/images/4_5.JPG)
+![Image 13](https://github.com/AnastasiaFAF172/SQL/raw/images/4_1.JPG)
+![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/4_2.jpg)
+![Image 14](https://github.com/AnastasiaFAF172/SQL/raw/images/4_3.jpg)
+![Image 16](https://github.com/AnastasiaFAF172/SQL/raw/images/4_4.jpg)
+![Image 17](https://github.com/AnastasiaFAF172/SQL/raw/images/4_5.JPG)
