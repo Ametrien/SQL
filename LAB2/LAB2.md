@@ -20,11 +20,11 @@
 ![Image 6](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/3_3.jpg)
 ![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/3_4.jpg)
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/3_6.jpg)
-![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/3_7_schedule.JPG)
+![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/3_7_schedule.jpg)
 
 #### №4
 
 ![Image 12](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/4_2.jpg)
 ![Image 13](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/4_3.jpg)
 ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/4_4.jpg)
-![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/4_5.JPG)
+![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/4_5.jpg)
