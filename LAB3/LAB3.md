@@ -1,5 +1,5 @@
 
-```
+```SQL
 CREATE DATABASE universitatea
 GO
 
