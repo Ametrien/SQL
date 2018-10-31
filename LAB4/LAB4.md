@@ -1,7 +1,7 @@
 
 EX. 8 - Get identificators and names of students who passed exams in 2018.
 ![Image 1](https://github.com/AshleyBlair/SQL/blob/master/LAB4/screenshots/8.jpg)
-EX. 14 - Find out first namr and last name of students, also their subjects, but only those students who have got at least 8 at exams.
+EX. 14 - Find out first names and last names of students, also their subjects, but only those students who have got at least 8 at exams.
 ![Image 2](https://github.com/AshleyBlair/SQL/blob/master/LAB4/screenshots/14.jpg)
 EX. 17 - Show full names of professors who taught at least a subject to the student whose ID is 100.
 ![Image 3](https://github.com/AshleyBlair/SQL/blob/master/LAB4/screenshots/17.jpg)
