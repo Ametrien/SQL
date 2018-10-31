@@ -15,6 +15,9 @@ Then I recreated it using "IF..ELSE" statement.
 ![Image 6](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/3.png)
 
 ### Ex.4
+1)
 ![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/4_1.png)
+
+2)
 ![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/4_2_1.png)
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/4_2_2.png)
