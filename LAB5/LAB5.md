@@ -5,7 +5,8 @@
 ### Ex.2
 First of all, I wanted to check how it would work if I used "WHERE" instead of "IF..ELSE" statement.
 ![Image 3](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/2_test.png)
-![Image 4]()
+Then I recreated it using "IF..ELSE" statement.
+![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/2_2.png)
 ### Ex.3
 ![Image 5](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/3.png)
 
