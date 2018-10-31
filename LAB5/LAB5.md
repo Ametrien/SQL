@@ -10,5 +10,5 @@ First of all, I wanted to check how it would work if I used "WHERE" instead of "
 ![Image 5](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/3.png)
 
 ### Ex.4
-![Image 6]()
+![Image 6](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/4_1.png)
 ![Image 7]()
