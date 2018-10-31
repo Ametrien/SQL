@@ -13,10 +13,10 @@
 ## SQL (BDC labs) - old laboratories
 
 ### [Lab 1](https://github.com/AshleyBlair/SQL/blob/master/old/BDC_LAB%231.md) ✅
-#### SQL Server Installation
+##### SQL Server Installation
 ### [Lab 2](https://github.com/AshleyBlair/SQL/blob/master/old/BDC_LAB%232.md) ✅ 
-#### Database Creation and Maintenance Tools
+##### Database Creation and Maintenance Tools
 ### [Lab 3](https://github.com/AshleyBlair/SQL/blob/master/old/BDC_LAB%233.md) ✅
-#### Database Creation and Manipulation. DML
+##### Database Creation and Manipulation. DML
 ### [Lab 4](https://github.com/AshleyBlair/SQL/blob/master/old/BDC_LAB%234.md) ✅
-####
+
