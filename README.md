@@ -1,4 +1,4 @@
-## SQL (BD labs)
+## SQL (labs)
 ### [Lab 2](https://github.com/AshleyBlair/SQL/blob/master/LAB2/LAB2.md) ✅ 
 #### 
 ### [Lab 3](https://github.com/AshleyBlair/SQL/blob/master/LAB3/LAB3.md) ✅ 
