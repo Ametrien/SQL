@@ -1,3 +1,5 @@
+![Image 0](https://github.com/AshleyBlair/SQL/blob/master/LAB6/screenshots/tasks6.png)
+
 ### Ex.1
 ![Image 1](https://github.com/AshleyBlair/SQL/blob/master/LAB6/screenshots/Lab6_task1.png)
 
