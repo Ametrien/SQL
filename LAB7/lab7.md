@@ -29,3 +29,6 @@
 ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/15.png)
 ![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/16.png)
 
+### Ex. 6
+
+![Image 16](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/17.png)
