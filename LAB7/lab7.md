@@ -15,3 +15,5 @@
 
 ![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/8.png)
 ![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/9.png)
+![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/10.png)
+
