@@ -17,3 +17,8 @@
 ![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/9.png)
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/10.png)
 
+### Ex. 4
+
+![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/11.png)
+![Image 11](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/12.png)
+
