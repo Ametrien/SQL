@@ -22,3 +22,10 @@
 ![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/11.png)
 ![Image 11](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/12.png)
 
+### Ex. 5
+
+![Image 12](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/13.png)
+![Image 13](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/14.png)
+![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/15.png)
+![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/16.png)
+
