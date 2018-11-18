@@ -7,6 +7,9 @@
 ####
 ### [Lab 5](https://github.com/AshleyBlair/SQL/blob/master/LAB5/LAB5.md) ✅
 ####
-### [Lab 6](https://github.com/AshleyBlair/SQL/blob/master/LAB6/LAB6.md)
+### [Lab 6](https://github.com/AshleyBlair/SQL/blob/master/LAB6/LAB6.md) ✅
 ####
-
+### [Lab 7](https://github.com/AshleyBlair/SQL/blob/master/LAB6/LAB7.md)
+####
+### [Lab 8](https://github.com/AshleyBlair/SQL/blob/master/LAB6/LAB8.md)
+####
