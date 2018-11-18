@@ -1,4 +1,4 @@
-![Image 1](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/tasks.jpg)
+![Image 1](https://github.com/AshleyBlair/SQL/blob/master/LAB5/screenshots/tasks5.png)
 
 ### Ex.1
 In this excercise I had to use the "if" statement in order to show the biggest number out of 3 random numbers. I used RAND() to create random numbers and I declared 3 variables, which were compared to each other later on.
