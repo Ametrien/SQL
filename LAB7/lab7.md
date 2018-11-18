@@ -2,5 +2,4 @@
 
 ### Ex. 1
 
-![Image 2](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/1.png)
-![Image 3](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/2.png)
+![Image 2](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/2.png)
