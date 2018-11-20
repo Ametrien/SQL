@@ -32,14 +32,7 @@ DELETE:
 
 #### Ex.3
 
- DML Restrictions:
- • You cannot add data through a view if the view: 
- – includes group functions 
- – includes a GROUP BY clause 
- – includes the DISTINCT keyword 
- – includes the pseudocolumn ROWNUM keyword 
- – includes columns defined by expressions 
- – does not include NOT NULL columns in the base tables
+You cannot add data through a view if the view: includes group functions, includes a GROUP BY clause, includes the DISTINCT keyword, includes the pseudocolumn ROWNUM keyword, includes columns defined by expressions, does not include NOT NULL columns in the base tables.
  
  In my case the quieries were not suitable for this from the beginning.
  
