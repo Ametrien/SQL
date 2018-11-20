@@ -29,3 +29,7 @@ UPDATE:
 ![Image 12](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/2_1.png)
 
 SQL Server views are only updatable under certain conditions, see SQL Views , Modify Data Through a View, and CREATE VIEW (Transact-SQL) => Remarks => Updatable Views. Your view don't fullfil this conditions/restrictions.
+
+DELETE:
+
+![Image 13](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/2_2.png)
