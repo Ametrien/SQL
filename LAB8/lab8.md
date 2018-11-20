@@ -24,11 +24,11 @@ Using interogation editor:
 
 #### Ex.2
 
+SQL Server views are only updatable under certain conditions. A view can be updated, deleted, inserted only if it has only one base table if the view is based on columns from one or more tables then insert, update and delete is not possible. My view doesn't fullfil this restrictions, because it is made of 2 tables.
+
 UPDATE:
 
 ![Image 12](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/2_1.png)
-
-SQL Server views are only updatable under certain conditions, see SQL Views , Modify Data Through a View, and CREATE VIEW (Transact-SQL) => Remarks => Updatable Views. Your view don't fullfil this conditions/restrictions.
 
 DELETE:
 
