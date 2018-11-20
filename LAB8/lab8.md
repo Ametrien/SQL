@@ -42,3 +42,6 @@ DELETE:
  – does not include NOT NULL columns in the base tables
  
  In my case the quieries were not suitable for this from the beginning.
+ 
+ #### Ex.6
+ 
