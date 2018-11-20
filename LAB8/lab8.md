@@ -21,3 +21,11 @@ Using interogation editor:
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_8.png)
 ![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_9.png)
 ![Image 11](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_10.png)
+
+#### Ex.2
+
+UPDATE:
+
+![Image 12](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/2_1.png)
+
+SQL Server views are only updatable under certain conditions, see SQL Views , Modify Data Through a View, and CREATE VIEW (Transact-SQL) => Remarks => Updatable Views. Your view don't fullfil this conditions/restrictions.
