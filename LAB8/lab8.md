@@ -36,6 +36,14 @@ You cannot add data through a view if the view: includes group functions, includ
  
  In my case the quieries were not suitable for this from the beginning.
  
+ ![Image 13](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/3_1.png)
+ 
+ #### Ex.4
+ 
+ ![Image 13](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/4.png)
+  
+ #### Ex.5
+ 
  #### Ex.6
  
  ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/7_1.png)
