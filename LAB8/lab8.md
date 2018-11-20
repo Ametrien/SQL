@@ -44,8 +44,11 @@ You cannot add data through a view if the view: includes group functions, includ
   
  #### Ex.5
  
+  ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/5_1.png)
+  ![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/5_2.png)
+  
  #### Ex.6
  
- ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/7_1.png)
- ![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/6_done.png)
+ ![Image 16](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/7_1.png)
+ ![Image 17](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/6_done.png)
  
