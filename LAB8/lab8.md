@@ -19,3 +19,5 @@ Using interogation editor:
 ![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_6.png)
 ![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_7.png)
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_8.png)
+![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_9.png)
+![Image 11](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/1_10.png)
