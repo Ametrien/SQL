@@ -45,5 +45,6 @@ DELETE:
  
  #### Ex.6
  
- ![Image 11](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/7_1.png)
+ ![Image 14](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/7_1.png)
+ ![Image 15](https://github.com/AshleyBlair/SQL/blob/master/LAB8/screenshots/6_done.png)
  
