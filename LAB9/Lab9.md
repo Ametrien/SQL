@@ -10,3 +10,10 @@ Ex. 2
 ![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/2.png)
 
 
+Ex. 3
+
+![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/3.png)
+
+Ex. 4
+
+![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/4.png)
