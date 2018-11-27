@@ -23,3 +23,7 @@ Ex. 6
 ![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/6_1.png)
 
 ![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/6_2.png)
+
+Ex. 7
+
+![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/7.png)
