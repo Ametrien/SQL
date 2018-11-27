@@ -12,8 +12,14 @@ Ex. 2
 
 Ex. 3
 
-![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/3.png)
+![Image 5](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/3.png)
 
 Ex. 4
 
-![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/4.png)
+![Image 6](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/4.png)
+
+Ex. 6
+
+![Image 7](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/6_1.png)
+
+![Image 8](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/6_2.png)
