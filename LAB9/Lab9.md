@@ -9,7 +9,6 @@ Ex. 2
 
 ![Image 4](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/2.png)
 
-
 Ex. 3
 
 ![Image 5](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/3.png)
@@ -17,6 +16,10 @@ Ex. 3
 Ex. 4
 
 ![Image 6](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/4.png)
+
+Ex. 5
+
+![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/5.png)
 
 Ex. 6
 
@@ -27,3 +30,7 @@ Ex. 6
 Ex. 7
 
 ![Image 9](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/7.png)
+
+Ex. 8
+
+![Image 10](https://github.com/AshleyBlair/SQL/blob/master/LAB9/screenshots/8.png)
