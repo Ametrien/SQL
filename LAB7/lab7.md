@@ -32,3 +32,44 @@
 ### Ex. 6
 
 ![Image 16](https://github.com/AshleyBlair/SQL/blob/master/LAB7/screenshots/17.png)
+
+### Ex. 7
+
+``` 
+USE universitatea
+
+--18
+SELECT distinct cadre_didactice.profesori.Nume_Profesor, cadre_didactice.profesori.Prenume_Profesor
+FROM studenti.studenti_reusita
+	INNER JOIN cadre_didactice.profesori
+
+ON studenti.studenti_reusita.Id_Profesor=cadre_didactice.profesori.Id_Profesor
+WHERE Id_Disciplina not in( 
+SELECT discipline.Id_Disciplina
+FROM plan_studii.discipline
+WHERE discipline.Nr_ore_plan_disciplina>60)
+
+--35
+SELECT DISTINCT Disciplina, AVG(cast(Nota as float)) Media FROM studenti.studenti_reusita sr
+	INNER JOIN plan_studii.discipline d on d.Id_Disciplina = sr.Id_Disciplina
+GROUP BY Disciplina
+HAVING AVG(cast(Nota as float)) > 7
+ORDER BY Disciplina DESC
+``` 
+
+### Ex. 8
+```
+CREATE SYNONYM st FOR studenti.studenti
+CREATE SYNONYM st_re FOR studenti.studenti_reusita
+CREATE SYNONYM pl_st_d FOR plan_studii.discipline
+CREATE SYNONYM cad_did_pr FOR cadre_didactice.profesori
+
+--18
+SELECT distinct Nume_profesor, Prenume_profesor
+FROM st_re INNER JOIN cad_did_pr
+ON st_re.Id_Profesor=cad_did_pr.Id_Profesor
+WHERE Id_Disciplina not in( 
+SELECT Id_Disciplina
+FROM pl_st_d
+WHERE Nr_ore_plan_disciplina>60)
+```
