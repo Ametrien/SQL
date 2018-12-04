@@ -7,7 +7,6 @@
 ![Image 1](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/DB_1.jpg)
 
 
-
 #### №2
 
 ![Image 2](https://github.com/AshleyBlair/SQL/blob/master/LAB2/screenshots/DB_2_1.jpg)
