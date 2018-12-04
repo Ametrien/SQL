@@ -35,7 +35,7 @@
 
 ### Ex. 7
 
-``` 
+```SQL
 USE universitatea
 
 --18
@@ -58,7 +58,7 @@ ORDER BY Disciplina DESC
 ``` 
 
 ### Ex. 8
-```
+```SQL
 CREATE SYNONYM st FOR studenti.studenti
 CREATE SYNONYM st_re FOR studenti.studenti_reusita
 CREATE SYNONYM pl_st_d FOR plan_studii.discipline
