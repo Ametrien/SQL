@@ -13,5 +13,10 @@
 ####
 ### [Lab 8](https://github.com/AshleyBlair/SQL/blob/master/LAB8/LAB8.md) ✅
 ####
-### [Lab 9](https://github.com/AshleyBlair/SQL/blob/master/LAB9/LAB9.md)
+### [Lab 9](https://github.com/AshleyBlair/SQL/blob/master/LAB9/LAB9.md) ✅
 ####
+### [Lab 10](https://github.com/AshleyBlair/SQL/blob/master/LAB9/LAB10.md) ✅
+####
+### [Lab 11](https://github.com/AshleyBlair/SQL/blob/master/LAB9/LAB11.md)
+####
+
