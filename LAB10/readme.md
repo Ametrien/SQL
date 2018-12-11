@@ -1,5 +1,6 @@
 ![Image 0](https://github.com/AshleyBlair/SQL/blob/master/LAB10/screenshots/10.png)
 ### Ex. 1
+![Image 3](https://github.com/ChiwetelFiennes/SQL/blob/master/LAB10/screenshots/1.png)
 ### Ex. 2
 ### Ex. 3
 ![Image 3](https://github.com/ChiwetelFiennes/SQL/blob/master/LAB10/screenshots/3.png)
