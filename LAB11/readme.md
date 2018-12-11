@@ -1,5 +1,5 @@
 
-![Image 0](https://github.com/AshleyBlair/SQL/blob/master/LAB10/screenshots/11.png)
+![Image 0](https://github.com/AppleAirPods/SQL/blob/master/LAB11/screenshots/11.png)
 ### Ex. 1
 ![Image 1]()
 ### Ex. 2
