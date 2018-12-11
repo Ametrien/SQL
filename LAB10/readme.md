@@ -2,6 +2,7 @@
 ### Ex. 1
 ![Image 3](https://github.com/ChiwetelFiennes/SQL/blob/master/LAB10/screenshots/1.png)
 ### Ex. 2
+![Image 2](https://github.com/ChiwetelFiennes/SQL/blob/master/LAB10/screenshots/2.png)
 ### Ex. 3
 ![Image 3](https://github.com/ChiwetelFiennes/SQL/blob/master/LAB10/screenshots/3.png)
 ### Ex. 4
